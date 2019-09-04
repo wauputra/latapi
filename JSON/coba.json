@@ -1,0 +1,29 @@
+[{
+        "nama": "Wahyu Adi Putra",
+        "umur": 22,
+        "NBA": "09.00.30387",
+        "lulus": true,
+        "hobby": [
+            "programming",
+            "editing"
+        ],
+        "pembimbing": {
+            "pembimbing 1": "Pak Nursal",
+            "Pembimbing 2": "Pak rizal"
+        }
+    },
+    {
+        "nama": "Wahyu Adi Putra",
+        "umur": 22,
+        "NBA": "09.00.30387",
+        "lulus": true,
+        "hobby": [
+            "programming",
+            "editing"
+        ],
+        "pembimbing": {
+            "pembimbing 1": "Pak Nursal",
+            "Pembimbing 2": "Pak rizal"
+        }
+    }
+]
